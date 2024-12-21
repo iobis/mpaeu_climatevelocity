@@ -22,6 +22,7 @@
 # RStudio files
 .Rproj.user/
 .Rproj
+VoCC-terra/.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
